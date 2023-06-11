@@ -7,17 +7,17 @@
 body {
 	font-family: Arial, sans-serif;
 	margin: 5px;
-	background-color: white;
+	background-color: #666666;
 }
 
 h1 {
-	color: black;
+	color: Whitesmoke;
 	text-align: center;
 	padding: 6px;
 }
 
 p {
-	color: #666666;
+	color: whitesmoke;
 	font-size: 18px;
 	line-height: 1.5;
 	margin: 20px;
