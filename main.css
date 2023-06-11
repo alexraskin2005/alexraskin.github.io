@@ -1,17 +1,17 @@
-{
+*{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
 
 body {
-	font-family: Arial, sans-serif;
+	font-family: Calibri, sans-serif;
 	margin: 5px;
 	background-color: white;
 }
 
 h1 {
-	color: blue;
+	color: black;
 	text-align: center;
 	padding: 6px;
 }
